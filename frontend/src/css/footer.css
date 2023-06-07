@@ -1,0 +1,15 @@
+.f1{
+width: 100%;
+height: 100px;
+position: absolute;
+bottom: 0px;
+}
+.f2{
+  margin: 0px;color: #17a2b8;
+  border-color: #17a2b8!important;
+}
+.f2:hover{
+    background-color: #17a2b8;
+    color: #fff!important;
+    border-color: #17a2b8;
+}
